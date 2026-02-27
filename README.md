@@ -78,4 +78,4 @@ The system protects sensitive data using a custom-built cryptographic logic:
 * **Anwer El-sayed**
 * **Email: anwr2021alssayed@gmail.com**
 * **phone:967775624272**
-"Building secure and scalable software solutions."
+* "Building secure and scalable software solutions."
